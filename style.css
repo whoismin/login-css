@@ -4,7 +4,7 @@ body {
 
     margin: 0;
 
-    background-color: #454d6b;
+    background-color: #fdcfe5;
 
 }
 
@@ -88,7 +88,7 @@ body {
 
     padding:0 5px;
 
-    background-color: transparent;
+    background-color: #fff;
 
     border:none;
 
@@ -96,7 +96,7 @@ body {
 
     outline: none;
 
-    color: #fff;
+    color: #011807;
 
 }
 
@@ -114,7 +114,7 @@ body {
 
     height: 40px;
 
-    background-color: #a13854;
+    background-color: #fff;
 
     border:none;
 
